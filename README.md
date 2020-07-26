@@ -1,5 +1,7 @@
 # DomainFinder
 
+This is experimental tool. It should not be used for production.
+
 This is the composition of all the necesary programs to get a new valid domain name.
 Consists on the following tools:
 
